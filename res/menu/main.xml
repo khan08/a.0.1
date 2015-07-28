@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.example.dev.MainActivity" >
+    <item
+            android:id="@+id/action_compose"
+            android:orderInCategory="1"
+            android:icon="@drawable/ic_create_black_24dp"
+            android:title="@string/action_post"
+            android:showAsAction="ifRoom"/>
+    <item
+            android:id="@+id/action_profile"
+            android:orderInCategory="2"
+            android:icon="@drawable/ic_account_box_black_24dp"
+            android:title="@string/action_profile"
+            android:showAsAction="ifRoom"/>
+    <item
+            android:id="@+id/action_help"
+            android:orderInCategory="4"
+            android:icon="@drawable/ic_help_black_24dp"
+            android:title="@string/action_help"
+            android:showAsAction="ifRoom"/>
+</menu>

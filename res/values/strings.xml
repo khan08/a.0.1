@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">a.0.1</string>
+    <string name="action_post">post</string>
+    <string name="action_profile">profile</string>
+    <string name="action_help">help</string>
+    <string name="action_reply">reply</string>
+    <string name="action_talk">talk</string>
+    <string name="action_mark">mark</string>
+</resources>

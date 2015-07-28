@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.example.dev.QuestionDetailBox ">
+    <item
+            android:id="@+id/action_reply"
+            android:orderInCategory="1"
+            android:icon="@drawable/ic_comment_black_24dp"
+            android:title="@string/action_reply"
+            android:showAsAction="ifRoom"/>
+    <item
+            android:id="@+id/action_talk"
+            android:orderInCategory="2"
+            android:icon="@drawable/ic_mic_black_24dp"
+            android:title="@string/action_talk"
+            android:showAsAction="ifRoom"/>
+    <item
+            android:id="@+id/action_mark"
+            android:orderInCategory="4"
+            android:icon="@drawable/ic_bookmark_black_24dp"
+            android:title="@string/action_mark"
+            android:showAsAction="ifRoom"/>
+</menu>
