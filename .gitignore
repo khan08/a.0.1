@@ -43,3 +43,5 @@ Temporary Items
 .apdisk
 .idea/workspace.xml
 .idea/workspace.xml
+*.apk
+out/production/a.0.1/com/example/a_0_1/.idea/compiler.xml
