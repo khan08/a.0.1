@@ -48,3 +48,5 @@ Temporary Items
 out/production/a.0.1/com/example/a_0_1/.idea/compiler.xml
 *.iml
 *.apk
+*.iml
+*.apk
